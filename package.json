@@ -1,0 +1,29 @@
+{
+  "name": "webpack-react-es6-prodbuild",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grgur/webpack-react-es6-optimize"
+  },
+  "scripts": {
+    "start": "webpack --progress --watch -p",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Grgur Grisogono",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^6.0.15",
+    "babel-core": "^6.1.2",
+    "babel-loader": "^6.1.0",
+    "babel-preset-es2015": "^6.1.2",
+    "babel-preset-react": "^6.1.2",
+    "uglify-loader": "^1.2.0",
+    "webpack": "^1.12.3"
+  },
+  "dependencies": {
+    "react": "^0.14.2",
+    "react-dom": "^0.14.2"
+  }
+}
