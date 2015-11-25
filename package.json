@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/grgur/webpack-react-es6-optimize"
+    "url": "git+https://github.com/ModusCreateOrg/webpack-react-es6-production-optimization"
   },
   "scripts": {
     "start": "webpack --progress --watch -p",
